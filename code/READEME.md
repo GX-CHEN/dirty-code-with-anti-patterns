@@ -1,0 +1,1 @@
+This directory contains code snippets to illustration the examples mentioned in the reading materials. Its folder structure matches the chapters of the book.

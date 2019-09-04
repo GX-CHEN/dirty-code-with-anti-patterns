@@ -1,0 +1,1 @@
+This folder contains a collections of markdown files which structured in directory sub-structure. Code snippets can be found in the "code" directory.
