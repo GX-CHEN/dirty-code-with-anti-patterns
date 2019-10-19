@@ -1,0 +1,3 @@
+## Naming is hard
+Naming are generally a hard thing in life: what should I call my cat? Why this food brands sound like car? 
+In programming word, we have to constantly give names to `variables`, `method/function`, `class`, `package/module`, `library` etc. This makes good naming very tricky in many situations. We don't want to name variables as `a`, `b`, `c`. But we also don't want to have super long names like `defaultPlaceholderValueForBiddingAmountBeforeUserType`.
